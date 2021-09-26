@@ -1,7 +1,7 @@
 name: GitHub Actions Landing Page
 on: [push]
   branches:
-      - main
+    - main
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
