@@ -27,4 +27,5 @@ jobs:
           yarn build
 
       - name: Deploy 🚀
-        run: sh deploy.sh
+        run:
+          git push -f git@github.com:<USERNAME>/<REPO>.git main
