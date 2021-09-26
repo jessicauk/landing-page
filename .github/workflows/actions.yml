@@ -28,4 +28,4 @@ jobs:
 
       - name: Deploy 🚀
         run:
-          git push -f git@github.com:<USERNAME>/<REPO>.git main
+          git push -f origin main
