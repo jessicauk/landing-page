@@ -1,6 +1,7 @@
 {
-  "name": "landing",
+  "name": "landing_page",
   "version": "0.0.0",
+  "homepage": "https//jessicauk.github.io/landing_page",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
